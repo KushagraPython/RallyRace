@@ -50,6 +50,10 @@
 		{
 			"Name": "USDCore",
 			"Enabled": true
+		},
+		{
+			"Name": "ChaosVehiclesPlugin",
+			"Enabled": true
 		}
 	]
 }
